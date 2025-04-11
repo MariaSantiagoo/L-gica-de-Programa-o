@@ -1,0 +1,21 @@
+1 encontre um local seguro
+2 sinalize que irá parar no local com triangulo de segurança do carro
+3 puxe o freio de mão 
+4 engate a primeira marcha
+5 abra a porta
+6 saia do carro
+7 vá até o porta malas
+8 abra o porta malas
+9 pegue o macaco e a chave de roda
+10 posicione o macaco próximo ao pneu a ser trocado
+11 levante o carro com o macaco
+12 afrouxe os parafusos com a chave de roda
+13 remova o pneu
+14 substitua por um novo
+15 aperte os parafusos do pneu
+16 desça o carro e retire o macaco
+17 guarde o pneu e as ferramentas
+
+ 
+ 
+ 

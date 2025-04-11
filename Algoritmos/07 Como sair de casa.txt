@@ -1,0 +1,22 @@
+organize os itens necessários
+coloque seu celular para carregar
+deixe os itens necessários em um lugar visível
+coloque a carteira perto das chaves
+quando estiver pronto para sair de casa pegue o celular
+vá até a porta
+pegue os itens necessários
+destranque a porta
+abra a porta
+saia da casa
+feche a porta
+tranque a porta
+verifique se todos os itens necessários estão com voce 
+se sim, saia de casa
+Se não, destranque a porta
+Abra a porta 
+Entre na casa
+Pegue o item esquecido
+Volte para a porta
+Saia de casa
+Feche a porta
+Tranque a porta, assim saindo de casa

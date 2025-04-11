@@ -1,0 +1,8 @@
+1 desligue a luz no interruptor
+2 pegue a lâmpada nova
+3 pegue algo para subir até a lâmpada quebrada, como uma cadeira, uma escada ou um banco
+4 suba no objeto escolhido
+5 gire a lâmpada quebrada no sentido anti-horário até que se solte
+6 coloque a nova girando no sentido horário
+desça do objeto
+7 teste a lâmpada nova a ligando no interruptor

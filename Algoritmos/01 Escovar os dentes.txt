@@ -1,0 +1,15 @@
+1 Vá a pia do banheiro
+2 pegue sua escova de dentes
+3 abra a torneira
+4 molhe sua escova de dentes
+5 feche a torneira
+6 coloque a pasta de dentes na escova
+7 escove seus dentes 
+8 cuspa a espuma na pia
+9 escove sua lingua
+10 abra a torneira
+11 lave sua escova com agua
+12 lave sua boca por fora com agua
+13 feche a torneira
+14 guarde sua escova de dentes
+
