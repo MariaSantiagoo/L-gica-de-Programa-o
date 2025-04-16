@@ -1,0 +1,13 @@
+1 desligue o notebook
+2 desconecte o mouse
+3 desligue o mouse
+4 pegue um paninho com álcool 
+5 limpe o computador e o mouse com o pano 
+6 verifique se o computador e o mouse foram desligados mesmo
+7 feche seu notebook
+8 aguarde o número do seu mouse ser chamado pelo representante da classe
+9 quando for chamado, leve o mouse até o representante e o notebook até o carrinho dele
+10 voltar para o lugar 
+11 esperar dar o horário de sair
+12 ir embora
+
